@@ -27,7 +27,7 @@ I’m always open to collaborating on interesting projects, especially in:
 ## 🌐 Find Me Online
 - **Twitter:** [@CodeViper](https://twitter.com/yourhandle)
 - **LinkedIn:** [CodeViper](https://linkedin.com/in/yourhandle)
-- **Instagram:** [cyberspartan_x]([https://linkedin.com/in/yourhandle](https://www.instagram.com/cyberspartan_x/))
+- **Instagram:** [cyberspartan_x](https://www.instagram.com/cyberspartan_x/)
 
 ## ⚡ Fun Fact
 When I'm not coding or hacking away, I’m probably reading about the latest tech trends or playing video games! 🎮
